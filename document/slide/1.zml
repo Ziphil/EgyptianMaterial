@@ -88,7 +88,6 @@
     \h1<仮の発音>
     \side<
       \table<
-        \tr<\th;\th|col="2"|<発音>>
         \tr<\th<[ʔ]>\td<`/ɑ`/>\td<ア>>
         \tr<\th<[j]>\td<`/i`/>\td<イ>>
         \tr<\th<[y]>\td<`/iː`/>\td<イー>>
@@ -96,7 +95,6 @@
         \tr<\th<[w]>\td<`/uː`/>\td<ウー>>
       >
       \table<
-        \tr<\th;\th|col="2"|<発音>>
         \tr<\th<[b]>\td<`/b`/>\td<バ行>>
         \tr<\th<[p]>\td<`/p`/>\td<パ行>>
         \tr<\th<[f]>\td<`/f`/>\td<ファ行>>
@@ -104,7 +102,6 @@
         \tr<\th<[n]>\td<`/n`/>\td<ナ行>>
       >
       \table<
-        \tr<\th;\th|col="2"|<発音>>
         \tr<\th<[r]>\td<`/r`/>\td<ラ行>>
         \tr<\th<[h]>\td<`/h`/>\td<ハ行>>
         \tr<\th<[ḥ]>\td<`/ħ`/>\td<ハ行>>
@@ -112,7 +109,6 @@
         \tr<\th<[ẖ]>\td<`/ç`/>\td<ヒャ行>>
       >
       \table<
-        \tr<\th;\th|col="2"|<発音>>
         \tr<\th<[z]>\td<`/z`/>\td<ザ行>>
         \tr<\th<[s]>\td<`/s`/>\td<サ行>>
         \tr<\th<[š]>\td<`/ʃ`/>\td<シャ行>>
@@ -120,7 +116,6 @@
         \tr<\th<[k]>\td<`/k`/>\td<カ行>>
       >
       \table<
-        \tr<\th;\th|col="2"|<発音>>
         \tr<\th<[g]>\td<`/ɡ`/>\td<ガ行>>
         \tr<\th<[t]>\td<`/t`/>\td<タ行>>
         \tr<\th<[ṯ]>\td<`/t͡ʃ`/>\td<チャ行>>
