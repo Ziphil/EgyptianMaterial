@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@use "sass:math" as *;
+@import "../variable.scss";
+
+
+.heading {
+  display: flex;
+  align-items: center;
+}
+
+.heading-number {
+  font-size: 24px;
+  font-weight: bold;
+  color: hsl(25, 20%, 50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.heading-text {
+  margin-inline-start: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: $heading-line-height;
+  flex: 1 1 auto;
+}
