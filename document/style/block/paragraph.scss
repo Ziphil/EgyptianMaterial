@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+@use "sass:math" as *;
+@import "../variable.scss";
+
+
+.paragraph {
+  line-height: $line-height;
+  &[data-size="large"] {
+    font-size: 150%;
+  }
+  &[data-size="huge"] {
+    font-size: 200%;
+  }
+}

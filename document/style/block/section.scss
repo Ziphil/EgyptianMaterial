@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 @use "sass:math" as *;
+@import "../variable.scss";
 
 
 .section {
@@ -9,6 +10,7 @@
 
 .section-title {
   margin-block-end: 40px;
+  border-block-start: solid 2px hsl(25, 30%, 20%);
   display: flex;
   align-items: center;
 }
@@ -30,5 +32,6 @@
   margin-inline-start: 20px;
   font-size: 32px;
   font-weight: bold;
+  line-height: $heading-line-height;
   flex: 1 1 auto;
 }

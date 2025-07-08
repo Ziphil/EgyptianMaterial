@@ -2,46 +2,88 @@
 \xml?|version="1.0",encoding="UTF-8"|;
 
 
-\main<
+\main|num="1"|<
+  \title<ヒエログリフの基礎>
 
   \section<
-    \p<
+    \p|size="huge"|<
       \hrs<N40-m-D54:k-w-A1 r b-i-N42:F18-N25:n I3:I3-G7>
     >
   >
 
   \section<
     \title<1 子音字母>
+    \side<
+      \table<
+        \tr<\th<[ʔ]>\td<\hrs<A>>>
+        \tr<\th<[j]>\td<\hrs<i>, \hrs<y>>>
+        \tr<\th<[y]>\td<\hrs<i*i>>>
+        \tr<\th<[ʕ]>\td<\hrs<a>>>
+        \tr<\th<[w]>\td<\hrs<w>, \hrs<W>>>
+      >
+      \table<
+        \tr<\th<[b]>\td<\hrs<b>>>
+        \tr<\th<[p]>\td<\hrs<p>>>
+        \tr<\th<[f]>\td<\hrs<f>>>
+        \tr<\th<[m]>\td<\hrs<m>>>
+        \tr<\th<[n]>\td<\hrs<n>>>
+      >
+      \table<
+        \tr<\th<[r]>\td<\hrs<r>>>
+        \tr<\th<[h]>\td<\hrs<h>>>
+        \tr<\th<[ḥ]>\td<\hrs<H>>>
+        \tr<\th<[ḫ]>\td<\hrs<x>>>
+        \tr<\th<[ẖ]>\td<\hrs<X>>>
+      >
+      \table<
+        \tr<\th<[z]>\td<\hrs<z>>>
+        \tr<\th<[s]>\td<\hrs<s>>>
+        \tr<\th<[š]>\td<\hrs<S>>>
+        \tr<\th<[q]>\td<\hrs<q>>>
+        \tr<\th<[k]>\td<\hrs<k>>>
+      >
+      \table<
+        \tr<\th<[g]>\td<\hrs<g>>>
+        \tr<\th<[t]>\td<\hrs<t>>>
+        \tr<\th<[ṯ]>\td<\hrs<T>>>
+        \tr<\th<[d]>\td<\hrs<d>>>
+        \tr<\th<[ḏ]>\td<\hrs<D>>>
+      >
+    >
   >
 
   \section<
     \title<2 子音字母>
-      \table<
-        \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
-        \tr<\th<[ʔ]->\td<>\td<>\td<>\td<\hrs<Aw>>\td<\hrs<Ab>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Ax>\br;\hrs<Ax2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[j]->\td<>\td<>\td<>\td<\hrs<iw>\br;\hrs<iw2>>\td<\hrs<ib>\br;\hrs<ib2>>\td<>\td<\hrs<im>\br;\hrs<im2>>\td<\hrs<in>\br;\hrs<in2>\br;\hrs<in3>\br;\hrs<in4>>\td<\hrs<ir>\br;\hrs<ir2>>\td<\hrs<iH>>\td<>\td<\hrs<iz>>\td<\hrs<is>\br;\hrs<is2>>\td<>\td<\hrs<ik>>\td<\hrs<it>>\td<\hrs<iT>>\td<>\td<>>
-        \tr<\th<[ʕ]->\td<\hrs<aA>>\td<>\td<>\td<>\td<\hrs<ab>>\td<>\td<>\td<>\td<>\td<\hrs<aH>>\td<>\td<>\td<>\td<\hrs<aq>>\td<>\td<>\td<>\td<>\td<\hrs<aD>\br;\hrs<aD2>>>
-        \tr<\th<[w]->\td<\hrs<wA>>\td<>\td<\hrs<wa>>\td<>\td<>\td<\hrs<wp>>\td<>\td<\hrs<wn>\br;\hrs<wn2>>\td<\hrs<wr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<wD>>>
-        \tr<\th<[b]->\td<\hrs<bA>\br;\hrs<bA2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<bH>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[p]->\td<\hrs<pA>\br;\hrs<pA2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<pr>>\td<\hrs<pH>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<pd>>\td<\hrs<pD>>>
-        \tr<\th<[m]->\td<\hrs<mA>>\td<\hrs<mi>\br;\hrs<mi2>\br;\hrs<mi3>>\td<>\td<\hrs<mw>>\td<>\td<>\td<\hrs<mm>>\td<\hrs<mn>\br;\hrs<mn2>>\td<\hrs<mr>\br;\hrs<mr2>\br;\hrs<mr3>\br;\hrs<mr4>>\td<\hrs<mH>>\td<>\td<>\td<\hrs<ms>>\td<>\td<>\td<\hrs<mt>\br;\hrs<mt2>>\td<>\td<\hrs<md>>\td<>>
-        \tr<\th<[n]->\td<>\td<\hrs<ni>\br;\hrs<ni2>>\td<>\td<\hrs<nw>\br;\hrs<nw2>>\td<\hrs<nb>>\td<>\td<\hrs<nm>\br;\hrs<nm2>>\td<\hrs<nn>>\td<\hrs<nr>>\td<\hrs<nH>>\td<>\td<>\td<\hrs<ns>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<nD>>>
-        \tr<\th<[r]->\td<>\td<>\td<>\td<\hrs<rw>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<rs>>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[h]->\td<>\td<>\td<>\td<>\td<\hrs<hb>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[ḥ]->\td<\hrs<HA>>\td<>\td<>\td<\hrs<Hw>>\td<>\td<\hrs<Hp>>\td<\hrs<Hm>\br;\hrs<Hm2>>\td<\hrs<Hn>\br;\hrs<Hn2>\br;\hrs<Hn3>>\td<\hrs<Hr>\br;\hrs<Hr2>>\td<>\td<>\td<\hrs<Hz>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<HD>>>
-        \tr<\th<[ḫ]->\td<\hrs<xA>\br;\hrs<xA2>>\td<>\td<\hrs<xa>>\td<\hrs<xw>>\td<>\td<>\td<\hrs<xm>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<xt>>\td<>\td<>\td<>>
-        \tr<\th<[ẖ]->\td<\hrs<XA>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Xn>\br;\hrs<Xn2>>\td<\hrs<Xr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[z]->\td<\hrs<zA>\br;\hrs<zA2>\br;\hrs<zA3>>\td<>\td<>\td<>\td<>\td<\hrs<zp>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[s]->\td<\hrs<sA>\br;\hrs<sA2>>\td<>\td<>\td<\hrs<sw>>\td<>\td<>\td<>\td<\hrs<sn>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<sk>>\td<\hrs<st>\br;\hrs<st2>>\td<\hrs<sT>>\td<>\td<\hrs<sD>>>
-        \tr<\th<[š]->\td<\hrs<SA>\br;\hrs<SA2>>\td<>\td<>\td<\hrs<Sw>>\td<>\td<>\td<\hrs<Sm>>\td<\hrs<Sn>\br;\hrs<Sn2>>\td<>\td<>\td<>\td<>\td<\hrs<Ss>>\td<>\td<>\td<>\td<>\td<\hrs<Sd>>\td<>>
-        \tr<\th<[q]->\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<qn>>\td<>\td<>\td<>\td<>\td<\hrs<qs>>\td<>\td<>\td<>\td<>\td<\hrs<qd>>\td<>>
-        \tr<\th<[k]->\td<\hrs<kA>>\td<>\td<>\td<>\td<>\td<\hrs<kp>>\td<\hrs<km>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[g]->\td<>\td<>\td<>\td<>\td<\hrs<gb>>\td<>\td<\hrs<gm>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<gs>>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[t]->\td<\hrs<tA>\br;\hrs<tA2>\br;\hrs<tA3>>\td<\hrs<ti>>\td<>\td<>\td<>\td<>\td<\hrs<tm>>\td<>\td<\hrs<tr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[ṯ]->\td<\hrs<TA>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Tz>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[d]->\td<>\td<\hrs<di>\br;\hrs<di2>>\td<>\td<>\td<>\td<\hrs<tp>\br;\hrs<tp2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
-        \tr<\th<[ḏ]->\td<\hrs<DA>>\td<\hrs<Di>>\td<>\td<\hrs<Dw>>\td<\hrs<Db>>\td<>\td<>\td<>\td<\hrs<Dr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Dd>>\td<\hrs<DD>>>
-      >
+    \table<
+      \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+      \tr<\th<[ʔ]->\td<>\td<>\td<>\td<\hrs<Aw>>\td<\hrs<Ab>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Ax>\br;\hrs<Ax2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[j]->\td<>\td<>\td<>\td<\hrs<iw>\br;\hrs<iw2>>\td<\hrs<ib>\br;\hrs<ib2>>\td<>\td<\hrs<im>\br;\hrs<im2>>\td<\hrs<in>\br;\hrs<in2>\br;\hrs<in3>\br;\hrs<in4>>\td<\hrs<ir>\br;\hrs<ir2>>\td<\hrs<iH>>\td<>\td<\hrs<iz>>\td<\hrs<is>\br;\hrs<is2>>\td<>\td<\hrs<ik>>\td<\hrs<it>>\td<\hrs<iT>>\td<>\td<>>
+      \tr<\th<[ʕ]->\td<\hrs<aA>>\td<>\td<>\td<>\td<\hrs<ab>>\td<>\td<>\td<>\td<>\td<\hrs<aH>>\td<>\td<>\td<>\td<\hrs<aq>>\td<>\td<>\td<>\td<>\td<\hrs<aD>\br;\hrs<aD2>>>
+      \tr<\th<[w]->\td<\hrs<wA>>\td<>\td<\hrs<wa>>\td<>\td<>\td<\hrs<wp>>\td<>\td<\hrs<wn>\br;\hrs<wn2>>\td<\hrs<wr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<wD>>>
+      \tr<\th<[b]->\td<\hrs<bA>\br;\hrs<bA2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<bH>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[p]->\td<\hrs<pA>\br;\hrs<pA2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<pr>>\td<\hrs<pH>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<pd>>\td<\hrs<pD>>>
+      \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+      \tr<\th<[m]->\td<\hrs<mA>>\td<\hrs<mi>\br;\hrs<mi2>\br;\hrs<mi3>>\td<>\td<\hrs<mw>>\td<>\td<>\td<\hrs<mm>>\td<\hrs<mn>\br;\hrs<mn2>>\td<\hrs<mr>\br;\hrs<mr2>\br;\hrs<mr3>\br;\hrs<mr4>>\td<\hrs<mH>>\td<>\td<>\td<\hrs<ms>>\td<>\td<>\td<\hrs<mt>\br;\hrs<mt2>>\td<>\td<\hrs<md>>\td<>>
+      \tr<\th<[n]->\td<>\td<\hrs<ni>\br;\hrs<ni2>>\td<>\td<\hrs<nw>\br;\hrs<nw2>>\td<\hrs<nb>>\td<>\td<\hrs<nm>\br;\hrs<nm2>>\td<\hrs<nn>>\td<\hrs<nr>>\td<\hrs<nH>>\td<>\td<>\td<\hrs<ns>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<nD>>>
+      \tr<\th<[r]->\td<>\td<>\td<>\td<\hrs<rw>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<rs>>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[h]->\td<>\td<>\td<>\td<>\td<\hrs<hb>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[ḥ]->\td<\hrs<HA>>\td<>\td<>\td<\hrs<Hw>>\td<>\td<\hrs<Hp>>\td<\hrs<Hm>\br;\hrs<Hm2>>\td<\hrs<Hn>\br;\hrs<Hn2>\br;\hrs<Hn3>>\td<\hrs<Hr>\br;\hrs<Hr2>>\td<>\td<>\td<\hrs<Hz>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<HD>>>
+      \tr<\th<[ḫ]->\td<\hrs<xA>\br;\hrs<xA2>>\td<>\td<\hrs<xa>>\td<\hrs<xw>>\td<>\td<>\td<\hrs<xm>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<xt>>\td<>\td<>\td<>>
+      \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+      \tr<\th<[ẖ]->\td<\hrs<XA>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Xn>\br;\hrs<Xn2>>\td<\hrs<Xr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[z]->\td<\hrs<zA>\br;\hrs<zA2>\br;\hrs<zA3>>\td<>\td<>\td<>\td<>\td<\hrs<zp>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[s]->\td<\hrs<sA>\br;\hrs<sA2>>\td<>\td<>\td<\hrs<sw>>\td<>\td<>\td<>\td<\hrs<sn>>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<sk>>\td<\hrs<st>\br;\hrs<st2>>\td<\hrs<sT>>\td<>\td<\hrs<sD>>>
+      \tr<\th<[š]->\td<\hrs<SA>\br;\hrs<SA2>>\td<>\td<>\td<\hrs<Sw>>\td<>\td<>\td<\hrs<Sm>>\td<\hrs<Sn>\br;\hrs<Sn2>>\td<>\td<>\td<>\td<>\td<\hrs<Ss>>\td<>\td<>\td<>\td<>\td<\hrs<Sd>>\td<>>
+      \tr<\th<[q]->\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<qn>>\td<>\td<>\td<>\td<>\td<\hrs<qs>>\td<>\td<>\td<>\td<>\td<\hrs<qd>>\td<>>
+      \tr<\th<[k]->\td<\hrs<kA>>\td<>\td<>\td<>\td<>\td<\hrs<kp>>\td<\hrs<km>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+      \tr<\th<[g]->\td<>\td<>\td<>\td<>\td<\hrs<gb>>\td<>\td<\hrs<gm>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<gs>>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[t]->\td<\hrs<tA>\br;\hrs<tA2>\br;\hrs<tA3>>\td<\hrs<ti>>\td<>\td<>\td<>\td<>\td<\hrs<tm>>\td<>\td<\hrs<tr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[ṯ]->\td<\hrs<TA>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Tz>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[d]->\td<>\td<\hrs<di>\br;\hrs<di2>>\td<>\td<>\td<>\td<\hrs<tp>\br;\hrs<tp2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
+      \tr<\th<[ḏ]->\td<\hrs<DA>>\td<\hrs<Di>>\td<>\td<\hrs<Dw>>\td<\hrs<Db>>\td<>\td<>\td<>\td<\hrs<Dr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Dd>>\td<\hrs<DD>>>
+      \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+    >
   >
 
 >

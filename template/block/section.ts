@@ -17,13 +17,13 @@ manager.registerElementRule("section", "main", (transformer, document, element) 
 manager.registerElementRule("title", "section", (transformer, document, element) => {
   const self = document.createDocumentFragment();
   const number = element.parentNode!.searchXpath("preceding-sibling::section[title]").length + 1;
-  self.appendElement("h2", (self) => {
+  self.appendElement("div", (self) => {
     self.addClassName("section-title");
     self.appendElement("span", (self) => {
       self.addClassName("section-title-number");
       self.appendTextNode(number.toString());
     });
-    self.appendElement("span", (self) => {
+    self.appendElement("h2", (self) => {
       self.addClassName("section-title-text");
       self.appendChild(transformer.apply(element, "section"));
     });

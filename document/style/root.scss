@@ -5,3 +5,34 @@ main {
   width: 100%;
   max-width: 1000px;
 }
+
+.main-title {
+  margin-block: 80px;
+  border: solid 2px hsl(25, 30%, 20%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-title-number {
+  width: 80px;
+  min-height: 80px;
+  font-size: 52px;
+  font-weight: bold;
+  color: hsl(25, 10%, 98%);
+  background-color: hsl(25, 30%, 20%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.main-title-text {
+  margin-inline: 25px;
+  margin-block: 10px;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: $heading-line-height;
+  flex: 1 1 auto;
+}

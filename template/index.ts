@@ -1,6 +1,8 @@
 //
 
+import blockFigureContainerManager from "./block/figure-container";
 import blockNormalTableManager from "./block/normal-table";
+import blockParagraphManager from "./block/paragraph";
 import blockSectionManager from "./block/section";
 import fallbackManager from "./fallback";
 import inlineCommonManager from "./inline/common";
@@ -10,6 +12,8 @@ import rootManager from "./root";
 
 const managers = [
   blockSectionManager,
+  blockParagraphManager,
+  blockFigureContainerManager,
   blockNormalTableManager,
   inlineCommonManager,
   inlineForeignManager,

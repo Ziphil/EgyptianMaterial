@@ -11,6 +11,12 @@ export class CustomElement extends BaseElement<CustomDocument, CustomDocumentFra
     this.attributes.set("class", nextClassName);
   }
 
+  public setBlockType(topBlockType: string, bottomBlockType: string): void {
+    this.addClassName("block");
+    this.setAttribute("data-top-block-type", topBlockType);
+    this.setAttribute("data-bottom-block-type", bottomBlockType);
+  }
+
 }
 
 

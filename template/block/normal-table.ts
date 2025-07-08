@@ -16,6 +16,7 @@ manager.registerElementRule("table", "section", (transformer, document, element,
     const containerSelf = document.createDocumentFragment();
     containerSelf.appendElement("figure", (self) => {
       self.addClassName("figure-container");
+      self.setBlockType("bordered", "bordered");
       self.appendChild(innerSelf);
     });
     return containerSelf;
