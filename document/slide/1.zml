@@ -12,6 +12,19 @@
   >
 
   \section<
+    \title<参考文献>
+    \p<
+       J. P. Allen (2014)『Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs (Third Edition)』Cambridge University Press
+    >
+    \p<
+       J. P. Allen (2014)『Middle Egyptian Literature: Eight Literary Works of the Middle Kingdom』Cambridge University Press
+    >
+    \p<
+      H. G. Fischer (1988)『Ancient Egyptian Calligraphy: A Beginner’s Guide to Writing Hieroglyphs (Third Edition)』Metropolitan Museum of Art
+    >
+  >
+
+  \section<
     \title<書き方について>
     \h1<書字方向>
     \p|size="large"|<
@@ -69,6 +82,9 @@
         \tr<\th<[ḏ]>\td<\hrs<D>>>
       >
     >
+    \p<
+      \hrs<s-p:d>　[spd] 
+    >
     \h1<仮の発音>
     \side<
       \table<
@@ -112,10 +128,17 @@
         \tr<\th<[ḏ]>\td<`/d͡ʒ`/>\td<ジャ行>>
       >
     >
+    \p<
+      \hrs<h-A-b>　[hʔb] → `/hɑb`/ (ハブ)
+    >
+    \p<
+      \hrs<A-p:d>　[ʔpd] → `/ɑpɛd`/ (アペッド)
+    >
   >
 
   \section<
-    \title<2 子音字母>
+    \title<複子音字母>
+    \h1<2 子音字母>
     \table<
       \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
       \tr<\th<[ʔ]->\td<>\td<>\td<>\td<\hrs<Aw>>\td<\hrs<Ab>>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Ax>\br;\hrs<Ax2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
@@ -147,10 +170,10 @@
       \tr<\th<[ḏ]->\td<\hrs<DA>>\td<\hrs<Di>>\td<>\td<\hrs<Dw>>\td<\hrs<Db>>\td<>\td<>\td<>\td<\hrs<Dr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Dd>>\td<\hrs<DD>>>
       \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
     >
-  >
-
-  \section<
-    \title<読まない文字>
+    \h1<3 子音字母>
+    \p<
+      \hrs<N42>　[bjʔ]
+    >
     \h1<音声補字>
     \p<
       \hrs<pr:r>　[pr] · [r] \k<→> [pr]
@@ -158,7 +181,17 @@
     \p<
       \hrs<a:F16-b>　[ʕ] · [ʕb] · [b] \k<→> [ʕb]
     >
-    \h1<限定符>
+  >
+
+  \section<
+    \title<表語文字>
+    \p<
+      \hrs<D56>　[]「脚」\k<→> [rd]
+    >
+  >
+
+  \section<
+    \title<限定符>
     \p<
       \hrs<h:r-w-N5>　[h] · [r] · [w] · (限定符) \k<→> [hrw]
     >
