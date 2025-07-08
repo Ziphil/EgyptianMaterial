@@ -12,6 +12,24 @@
   >
 
   \section<
+    \title<書き方について>
+    \h1<書字方向>
+    \p|size="large"|<
+      \k<→>　\hrs<n w A1 N5 B1>　\hrs<d:p*t P1>
+    >
+    \p|size="large"|<
+      \hrs|rtl|<d:p*t P1>　\hrs|rtl|<n w A1 N5 B1>　\k<←>
+    >
+    \h1<グルーピング>
+    \p|size="large"|<
+      \hrs<f> \k<＋> \hrs<r> \k<＋> \hrs<n> \k<＝> \hrs<f:r:n>
+    >
+    \p|size="large"|<
+      \hrs<x> \k<＋> \hrs<t> \k<＋> \hrs<Y1> \k<＝> \hrs<x*t:Y1>
+    >
+  >
+
+  \section<
     \title<1 子音字母>
     \h1<字母>
     \side<
@@ -128,6 +146,24 @@
       \tr<\th<[d]->\td<>\td<\hrs<di>\br;\hrs<di2>>\td<>\td<>\td<>\td<\hrs<tp>\br;\hrs<tp2>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>>
       \tr<\th<[ḏ]->\td<\hrs<DA>>\td<\hrs<Di>>\td<>\td<\hrs<Dw>>\td<\hrs<Db>>\td<>\td<>\td<>\td<\hrs<Dr>>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<>\td<\hrs<Dd>>\td<\hrs<DD>>>
       \tr<\th;\th<-[ʔ]>\th<-[j]>\th<-[ʕ]>\th<-[w]>\th<-[b]>\th<-[p]>\th<-[m]>\th<-[n]>\th<-[r]>\th<-[ḥ]>\th<-[ḫ]>\th<-[z]>\th<-[s]>\th<-[q]>\th<-[k]>\th<-[t]>\th<-[ṯ]>\th<-[d]>\th<-[ḏ]>>
+    >
+  >
+
+  \section<
+    \title<読まない文字>
+    \h1<音声補字>
+    \p<
+      \hrs<pr:r>　[pr] · [r] \k<→> [pr]
+    >
+    \p<
+      \hrs<a:F16-b>　[ʕ] · [ʕb] · [b] \k<→> [ʕb]
+    >
+    \h1<限定符>
+    \p<
+      \hrs<h:r-w-N5>　[h] · [r] · [w] · (限定符) \k<→> [hrw]
+    >
+    \p<
+      \hrs<w-z:x-W10:Y1>　[w] · [z] · [ḫ] · (限定符) · (限定符) \k<→> [wzḫ]
     >
   >
 

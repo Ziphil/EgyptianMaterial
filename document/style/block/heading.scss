@@ -5,8 +5,12 @@
 
 
 .heading {
+  padding-block-start: 20px;
   display: flex;
   align-items: center;
+  .section-title +& {
+    padding-block-start: 0px;
+  }
 }
 
 .heading-number {
