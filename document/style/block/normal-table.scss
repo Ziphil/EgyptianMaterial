@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@use "sass:math" as *;
+
+
+.figure-container {
+  display: flex;
+  align-items: flex-start;
+  column-gap: 40px;
+  overflow: auto;
+}
+
+.normal-table {
+  line-height: 1.7;
+  border-collapse: collapse;
+  white-space: nowrap;
+}
+
+.normal-table th,
+.normal-table td {
+  padding: 1px 10px;
+  border: 1px solid currentcolor;
+}
+
+.normal-table th {
+  background-color: hsl(25, 10%, 80%);
+}

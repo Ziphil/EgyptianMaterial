@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+
+@font-face {
+  font-family: "Brill Web";
+  src: url("https://ziphil.com/material/font/brill.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-feature-settings: "lnum" 1;
+  ascent-override: 90%;
+  descent-override: 20%;
+}
+
+@font-face {
+  font-family: "Brill Web";
+  src: url("https://ziphil.com/material/font/brill-bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-feature-settings: "lnum" 1;
+  ascent-override: 90%;
+  descent-override: 20%;
+}
+
+@font-face {
+  font-family: "Brill Web";
+  src: url("https://ziphil.com/material/font/brill-italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-feature-settings: "lnum" 1;
+  ascent-override: 90%;
+  descent-override: 20%;
+}
+
+@font-face {
+  font-family: "Brill Web";
+  src: url("https://ziphil.com/material/font/brill-bold-italic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-feature-settings: "lnum" 1;
+  ascent-override: 90%;
+  descent-override: 20%;
+}
+
+@font-face {
+  font-family: "Inter Web";
+  src: url("https://ziphil.com/material/font/inter.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hieroglyphic";
+  src: url("/material/font/gardiner.ttf") format("truetype");
+}

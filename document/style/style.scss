@@ -1,15 +1,26 @@
 @charset "utf-8";
 
 @import "reset.scss";
+@import "font.scss";
+@import "root.scss";
+@import "block/section.scss";
+@import "block/normal-table.scss";
+@import "inline/common.scss";
+@import "inline/foreign.scss";
 
 
 html {
 }
 
 body {
-  margin: 0px;
-  padding: 0px;
-  font-feature-settings: "palt" 1, "pkna" 1;
+  padding-inline: 15px;
+  padding-block: 0px;
+  font-family: "Brill Web", "Brill", "Noto Serif", "Yu Mincho", "YuMincho", serif;
+  font-feature-settings: "lnum" 1, "palt" 1, "pkna" 1;
   line-height: 1;
-  background-color: white;
+  color: hsl(25, 30%, 15%);
+  background-color: hsl(25, 10%, 98%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

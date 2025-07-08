@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+@use "sass:math" as *;
+
+
+.sans {
+  font-family: "Inter Web", "Noto Sans", "Noto Sans Arabic", "BIZ UDGothic", "Yu Gothic Medium", "Yu Gothic" !important;
+  font-feature-settings: "palt" 1, "pkna" 1;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.smallcaps {
+  font-variant: small-caps;
+  font-feature-settings: "smcp" 1;
+}
+
+.sup {
+  font-size: 80%;
+  vertical-align: 0.3906em;
+  line-height: 0;
+}
+
+.sub {
+  font-size: 80%;
+  vertical-align: -0.2969em;
+  line-height: 0;
+}
+
+.japanese {
+  font-family: "Yu Mincho", "YuMincho" !important;
+  font-feature-settings: "palt" 0;
+  line-height: 1;
+}

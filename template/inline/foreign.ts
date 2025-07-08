@@ -6,7 +6,7 @@ import {CustomTemplateManager} from "../../generator/transformer";
 
 const manager = new CustomTemplateManager();
 
-manager.registerElementRule("hrs", "page", (transformer, document, element) => {
+manager.registerElementRule("hrs", "section", (transformer, document, element) => {
   const self = document.createDocumentFragment();
   self.appendElement("span", (self) => {
     self.addClassName("hieroglyph-sentence");
@@ -23,7 +23,7 @@ manager.registerElementRule("hrs", "page", (transformer, document, element) => {
   return self;
 });
 
-manager.registerElementRule("hr", "page", (transformer, document, element) => {
+manager.registerElementRule("hr", "section", (transformer, document, element) => {
   const self = document.createDocumentFragment();
   self.appendElement("span", (self) => {
     self.addClassName("hieroglyph");

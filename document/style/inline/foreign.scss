@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@use "sass:math" as *;
+
+
+.hieroglyph-sentence {
+  font-size: 140%;
+  line-height: 1;
+  font-size-adjust: none !important;
+  position: relative;
+  bottom: -0.2em;
+}
+
+.hieroglyph {
+  font-size: 140%;
+  line-height: 1;
+  font-size-adjust: none !important;
+  position: relative;
+  bottom: -0.2em;
+}

@@ -59,4 +59,10 @@ manager.registerElementRule("k", true, (transformer, document, element) => {
   return self;
 });
 
+manager.registerElementRule("br", true, (transformer, document, element) => {
+  const self = document.createDocumentFragment();
+  self.appendElement("br");
+  return self;
+});
+
 export default manager;
